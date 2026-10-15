@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: donghyeon-fighters-online
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    region: singapore
+    numInstances: 1
+    healthCheckPath: /health
+    autoDeployTrigger: off
+    envVars:
+      - key: NODE_ENV
+        value: production

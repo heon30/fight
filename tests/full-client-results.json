@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "shippedClientPrograms": 2,
+  "realSockets": true,
+  "keyboardInput": true,
+  "renderFunctionExecuted": true,
+  "noLocalOnlyPrediction": true,
+  "screenDifferencePx": 0.17,
+  "keyRelease": true,
+  "simultaneousJump": true
+}

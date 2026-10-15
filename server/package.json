@@ -1,0 +1,7 @@
+{
+  "name": "donghyeon-fighters-realtime",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24.0.0" },
+  "scripts": { "start": "node realtime.mjs" }
+}

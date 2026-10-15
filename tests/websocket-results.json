@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "realWebSocketRooms": 4,
+  "players": [
+    2,
+    4,
+    8,
+    30
+  ],
+  "simultaneousMovement": true,
+  "serverAdvancesWithoutPolling": true,
+  "receivedSnapshots": 948,
+  "maxScreenDifferencePx": 0.181,
+  "staleInputIgnored": true,
+  "pauseResume": true
+}
